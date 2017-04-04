@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    background: radial-gradient(#6f5964, #1e0e12);
+    width: 941px;
+    padding: 20px;
+    margin: 20px;
+}
+
+#top-content {
+    margin-bottom: 30px;
+}
+
+#top-content img {
+    width: 420px;
+   height: 260px;
+   display: inline-block;
+   border: 3px solid lightgray;
+}
+
+#About {
+   background: linear-gradient(to right, #fefefe, #daccd9); 
+   display: inline-block;
+   vertical-align: top;
+   margin-left: 30px;
+   width: 480px;
+   height: 246px;
+   padding-bottom: 20px;
+}
+
+h3, h4 {
+    color: white;
+    background: radial-gradient(#8a8896, #a9a9ae);
+    padding: 10px;
+}
+
+
+#About p {
+    margin-top: 10px;
+    padding: 5px 10px;
+}
+
+.bottom-boxes {
+    width: 300px;
+    height: 600px;
+    background: linear-gradient(to right, #fefefe, #daccd9);
+    display: inline-block;
+    vertical-align: top;
+    text-align: justify;
+}
+
+#box2, #box3 {
+    margin-left: 16px;
+}
+
+#bottom-content p {
+    padding: 10px 10px 30px 10px;
+    height: 160px;
+}
+
+#footer {
+    background-color: lightgrey;
+    text-align: center;
+    padding: 5px 0px;
+}
+
+#footer p {
+    display: block;  
+}   
+
+.foot-img {
+    display: inline-block;
+    width: 20px;
+    margin-top: 5px;
+    margin-right: 3px;
+    vertical-align: bottom;
+}
+
+#contact {
+    display: block;
+}
+
+.box-img {
+    width: 300px;
+}
+
+.icon-box {
+    width: 30px;
+    padding: 5px;
+}
+
+.button {
+    background-color: #407d61;
+    color: white;
+    padding: 5px 10px;
+    display: inline-block;
+   border-radius: 10px;
+}
+
+.buttons {
+    text-align: center;
+}
